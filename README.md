@@ -1,17 +1,13 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=29&duration=4000&pause=00&color=1C1EE2EE&vCenter=true&repeat=false&width=490&height=70&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-
-[![An image of @josel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/josel)](https://holopin.io/@josel)
 
 
 <p>From coding to innovation 🧑🏽‍💻, I'm <b>Jobin Jose</b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
 
-<a href="https://www.buymeacoffee.com/Jobin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 ### ⚡️ A quick introduction
 
-- 🌱 I'm a final year B.Tech student, passionate about Spring Boot, and proficient in React.
+- 🌱 I'm a final year B.Tech student, passionate about Python Django, and proficient in React.
 - 🤟🏻 I'm an aspiring software developer, cloud enthusiast, and a full-stack developer.
 - ⚽ Hobbies: Football, reading, and watching movies. I also enjoy exploring new technologies!
 - 😝 Fun-Fact: I have an uncanny talent for finding the best local food joints in any city.
