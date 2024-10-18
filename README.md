@@ -4,7 +4,7 @@
 [![An image of @josel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/josel)](https://holopin.io/@josel)
 
 
-<p>From coding to innovation 🧑🏽‍💻, I'm <b>Josel Xavier </b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
+<p>From coding to innovation 🧑🏽‍💻, I'm <b>Jobin Jose</b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
 
 <a href="https://www.buymeacoffee.com/Jobin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
